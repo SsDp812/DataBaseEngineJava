@@ -22,11 +22,11 @@ public class Main {
         db.execute("SELECT");
         db.execute("UPDATE VALUES 'lastname' = 'antonov' WHERE 'age' = 45");
         db.execute("SELECT");
-        db.execute("INSERT VALUES 'age' = 52, 'lastname' = 'ignatov', 'active' = true");
+        db.execute("INSERT VALUES 'age' = 52,           'lastname' = 'ignatov', 'active' = true");
         db.execute("SELECT WHERE 'age' > 42 AND 'active' = true");
-        db.execute("SELECT WHERE 'age' > 48 OR 'active' = true");
+        db.execute("SELECT WHERE 'age' > 48 OR 'active' =true");
         db.execute("SELECT WHERE 'lastname' like '%natov'");
-        db.execute("SELECT WHERE 'lastname' ilike '%nAtOv'");
+        db.execute("SELECT WHERE 'lastname' ilike        '%nAtOv'");
         //работа с пользовательской таблицей (запросы вводятся через консоль)
         System.out.println("!!!CUSTOM MODE!!!");
         GUIForJavaSchoolStarter userDb = new GUIForJavaSchoolStarter(GUIForJavaSchoolStarter.tableConfig.CUSTOM);
