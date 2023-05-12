@@ -25,6 +25,6 @@
 
 ## Example:
 
-![](https://github.com/SsDp812/DataBaseEngineWithUI/blob/main/pic1.png)
-![](https://github.com/SsDp812/DataBaseEngineWithUI/blob/main/pic2.png)
-![](https://github.com/SsDp812/DataBaseEngineWithUI/blob/main/pic3.png)
+![](https://github.com/SsDp812/DataBaseEngineJava/blob/main/pic1.png)
+![](https://github.com/SsDp812/DataBaseEngineJava/blob/main/pic2.png)
+![](https://github.com/SsDp812/DataBaseEngineJava/blob/main/pic3.png)
