@@ -1,0 +1,2 @@
+name:::String age:::Long 
+name = petr ### age = 90 ### 

@@ -1,0 +1,2 @@
+author:::String book_id:::Long 
+author = ivan ### book_id = 1 ### 
